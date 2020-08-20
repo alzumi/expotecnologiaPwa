@@ -1,6 +1,6 @@
 importScripts('js/sw-utils.js');
 
-const PRINCIPAL_CACHE = 'principal-v1';
+const PRINCIPAL_CACHE = 'principal-v2';
 const DINAMICO_CACHE = 'dinamico-v1';
 const INALTERABLE_CACHE = 'inalterable-v1';
 
