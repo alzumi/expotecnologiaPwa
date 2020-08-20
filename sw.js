@@ -7,7 +7,7 @@ const INALTERABLE_CACHE = 'inalterable-v1';
 // APP_SHELL = variable que guarda todos los archivos
 // que yo crear y agrege para que mi app funciones
 const APP_SHELL = [
-    '/',
+    // '/',
     '/index.html',
     'js/app.js',
     'img/tecexpo1.png',
